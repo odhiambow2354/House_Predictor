@@ -2,16 +2,18 @@
 working on machine learning model for house price prediction
 
 #language
--python
--jupyter
+
+1. python
+
 
 
 #Libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pickle
+
+1. import pandas as pd
+2. import numpy as np
+3. import matplotlib.pyplot as plt
+4. import seaborn as sns
+5. import pickle
 
 # Load the dataset from kaggle
 df = pd.read_csv('rent_apts.csv')
