@@ -17,6 +17,6 @@ import pickle
 df = pd.read_csv('rent_apts.csv')
 
 #tool used for building
-1. google colab for training data
-2. gradio- fo UI
+1. Google colab for training data
+2. Gradio- for UI
 
